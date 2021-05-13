@@ -9,6 +9,6 @@ I'm a developer at [Multitel Pagliero](https://www.pagliero.com/) in Manta, Ital
 <br />
 <br />
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=kznava&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/ruthrootz)
+[![github stats](https://github-readme-stats.vercel.app/api?username=kznava&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/kznava)
 <br />
 <br />
