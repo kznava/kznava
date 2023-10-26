@@ -5,7 +5,6 @@ I'm a software developer at [Multitel Pagliero](https://www.multitelgroup.com/) 
 
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at [kznava.dev](http://kznava.dev)
-* ✉️  You can contact me at [navarro1993juan@gmail.com](mailto:navarro1993juan@gmail.com)
 * 🧠  I'm learning rustlang
 * ⚡  I'm not saying I am Batman, I am just saying that no one has ever seen me and Batman in the same room together
 * 🎴  I love playing [Destiny 2](https://www.bungie.net/en)
