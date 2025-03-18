@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a software developer at [Multitel Pagliero](https://www.multitelgroup.com/) in Manta, Italy.
 
 * 🌍  I'm based in Italy
-* 🖥️  See my portfolio at [kznava.dev](http://kznava.dev)
-* 🧠  I'm learning rustlang
-* ⚡  I'm not saying I am Batman, I am just saying that no one has ever seen me and Batman in the same room together
-* 🎴  I love playing [Destiny 2](https://www.bungie.net/en)
-* 💬  Ask me about [.NET](https://dotnet.microsoft.com/)
+* 🖥️  See my website at [kznava.dev](http://kznava.dev)
 
 ### Skills
 
